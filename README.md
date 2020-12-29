@@ -50,3 +50,8 @@ Combinar observables
 * npm install bootstrap  
 * npm install animate.css --save  https://animate.style/ 
 * npm install sweetalert2  https://sweetalert2.github.io/#download
+
+
+## ** Links API Movie DB  ** 
+https://www.themoviedb.org/?language=es
+https://developers.themoviedb.org/3/getting-started/introduction
