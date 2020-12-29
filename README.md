@@ -25,3 +25,28 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## What I learnt.
+
+Http Get
+
+Operadores de RXJS como el Tap y Map
+
+Combinar observables
+
+1. Módulos
+2. Estructura de un proyecto real
+3. Servicios
+4. Slideshow
+5. Swiper
+
+## **This project was created by godxvincent.**
+
+![Godxvincent](DFFOO_Vincent_Valentine.png)
+
+## ** Extra installations **
+* npm install jquery 
+* npm install popper.js --save 
+* npm install bootstrap  
+* npm install animate.css --save  https://animate.style/ 
+* npm install sweetalert2  https://sweetalert2.github.io/#download
