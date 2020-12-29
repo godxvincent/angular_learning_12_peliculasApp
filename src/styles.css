@@ -1,5 +1,5 @@
 body {
-    background-color: #14161E;
+    background-color: #14161E !important;
 }
 
 h1,
@@ -7,20 +7,20 @@ h2,
 h3,
 h4,
 h5 {
-    font-weight: 200;
-    color: white;
+    font-weight: 200 !important;
+    color: white !important;
 }
 
 p {
-    color: white;
+    color: white !important;
 }
 
 hr {
-    color: white;
+    color: white !important;
 }
 
 .navbar-brand {
-    font-weight: 200;
+    font-weight: 200 !important;
     color: #bd4c5f !important;
 }
 
@@ -32,10 +32,10 @@ hr {
 }
 
 .btn-outline-success:hover {
-    background-color: #272a36;
+    background-color: #272a36 !important;
     color: white !important;
 }
 
 .block {
-    display: block;
+    display: block !important;
 }
