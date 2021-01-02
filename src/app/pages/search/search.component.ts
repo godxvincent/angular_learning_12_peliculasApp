@@ -17,7 +17,7 @@ export class SearchComponent implements OnInit {
       this.searchedMovie = params.text;
       this.moviesService.searchMovie(this.searchedMovie).subscribe( movies => {
         this.movies = movies;
-      })
+      });
     });
    }
 
