@@ -50,6 +50,7 @@ Combinar observables
 * npm install bootstrap  
 * npm install animate.css --save  https://animate.style/ 
 * npm install sweetalert2  https://sweetalert2.github.io/#download
+* npm install swiper
 
 
 ## ** Links de interés  ** 
@@ -59,5 +60,7 @@ https://www.themoviedb.org/?language=es
 https://developers.themoviedb.org/3/getting-started/introduction
 
 * quicktype
-
 https://quicktype.io/
+
+* swiperjs
+https://swiperjs.com/
