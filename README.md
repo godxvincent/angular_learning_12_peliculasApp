@@ -64,3 +64,6 @@ https://quicktype.io/
 
 * swiperjs
 https://swiperjs.com/
+
+* ng-starrating
+https://www.npmjs.com/package/ng-starrating
