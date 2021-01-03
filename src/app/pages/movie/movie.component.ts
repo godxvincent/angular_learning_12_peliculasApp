@@ -4,7 +4,6 @@ import { MoviesService } from '../../services/movies.service';
 import { MovieDetail } from '../../interfaces/movie-detail-response';
 import { Location } from '@angular/common';
 import { CastElement } from '../../interfaces/credits-response';
-import { combineAll } from 'rxjs/operators';
 import { combineLatest } from 'rxjs';
 
 @Component({
