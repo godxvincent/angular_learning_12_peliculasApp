@@ -67,3 +67,7 @@ https://swiperjs.com/
 
 * ng-starrating
 https://www.npmjs.com/package/ng-starrating
+
+How to remove sensitve data
+
+git filter-branch --force --index-filter "git rm --cached --ignore-unmatch src/app/services/movies.service.ts" --prune-empty --tag-name-filter cat -- --all
