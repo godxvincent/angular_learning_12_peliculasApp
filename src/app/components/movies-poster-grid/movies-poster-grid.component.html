@@ -1,5 +1,5 @@
 <div class="row">
-    <div class="col-md-3 mb-5" *ngFor="let movie of moviesGrid">
+    <div class="col-md-3 mb-5 animate__animated animate__fadeIn" *ngFor="let movie of moviesGrid">
         <img [src]="movie.poster_path | poster" alt="" class="img-fluid poster" (click)="onMovieClick(movie)">
         <div>
             <h3>
