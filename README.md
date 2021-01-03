@@ -28,17 +28,14 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## What I learnt.
 
-Http Get
-
-Operadores de RXJS como el Tap y Map
-
-Combinar observables
-
-1. Módulos
-2. Estructura de un proyecto real
-3. Servicios
-4. Slideshow
-5. Swiper
+1. Http Get
+2. Operadores de RXJS como el Tap y Map
+3. Combinar observables
+4. Módulos
+5. Estructura de un proyecto real
+6. Servicios
+7. Slideshow
+8. Swiper
 
 ## **This project was created by godxvincent.**
 
