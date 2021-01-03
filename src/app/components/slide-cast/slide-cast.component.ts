@@ -12,7 +12,7 @@ export class SlideCastComponent implements OnInit, AfterViewInit {
   @Input() casting: CastElement[];
 
   constructor() {}
-  
+
   ngAfterViewInit(): void {
     const swiper = new Swiper('.swiper-container', {
         slidesPerView: 5.3,
@@ -21,10 +21,6 @@ export class SlideCastComponent implements OnInit, AfterViewInit {
       }
     );
   }
-  
   ngOnInit(): void {
-    console.log("imprimiendo desde el slide del casting ");
-    console.log(this.casting);
   }
-  
 }
